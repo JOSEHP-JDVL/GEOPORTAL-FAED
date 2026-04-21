@@ -3,7 +3,7 @@ const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS
 
 const tablas = [
   "bouloye_1", "coges_kougari", "fetombaga", "grande_mare_de_dori", 
-  "jamweli", "kampiti", "kel_eguief", "kougari_1", "kougari_2", "wendou"
+  "jamweli", "kampiti", "kel_eguief", "kougari_1", "kougari_2", "wendou",
   "todori2", "kougari_3", "jardin_torodi"
 ];
 
